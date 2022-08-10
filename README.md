@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 </h1>
 <h3 align="center">I'm Mateus de Paula Miranda, PhD student at IG-Unicamp</h3>
 
-- 🔭 I’m currently working on **my thesis with machine applied to mineral exploration**
+- 🔭 I’m currently working on **my thesis with machine learning applied to mineral-prospectivity mapping**
 
 - 🌱 I’m learning **Python, R and Machine Learning**
 
