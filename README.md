@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 </h1>
-<h3 align="center">I'm Mateus de Paula Miranda, PhD student at Unicamp</h3>
+<h3 align="center">I'm Mateus de Paula Miranda, PhD student at IG-Unicamp</h3>
 
 - 🔭 I’m currently working on **my thesis with machine applied to mineral exploration**
 
