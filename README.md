@@ -5,7 +5,6 @@
 
 - 🌱 I’m learning **Python, R and Machine Learning**
 
-- 📄 Know about my experiences [http://lattes.cnpq.br/8863521926394648](http://lattes.cnpq.br/8863521926394648)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
