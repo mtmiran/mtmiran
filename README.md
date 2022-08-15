@@ -5,7 +5,8 @@
 
 - 🌱 I’m learning **Python, R and Machine Learning**
 
-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> linux enthusiast
+- 🐧 Linux enthusiast
+
 
 
 <h3 align="left">Connect with me:</h3>
