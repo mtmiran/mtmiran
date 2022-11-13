@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my thesis with machine learning applied to mineral-prospectivity mapping**
 
-- 🌱 I’m learning **Python, R and Machine Learning**
+- 🌱 I’m learning **Python, R, SQL and Machine Learning**
 
 - 🐧 Linux enthusiast
 
