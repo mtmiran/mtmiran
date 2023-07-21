@@ -21,7 +21,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtmiran&show_icons=true&locale=en&layout=compact" alt="mtmiran" /></p>
 
 <h3 align="left">Personal Projects</h3>
-[Quick Note](https://github.com/mtmiran/quick_note): a simple python note-taking application that helps me overcome my adhd.
+- [Quick Note](https://github.com/mtmiran/quick_note): a simple python note-taking application that helps me overcome my adhd.
 
 <!--
 **mtmiran/mtmiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
