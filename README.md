@@ -25,6 +25,15 @@
   <a href="https://github.com/mtmiran/quick_note">Quick Note</a>: a simple python note-taking application that helps me overcome my ADHD.
 </p>
 
+
+<h3 align="left">My Programming Environment</h3>
+<p>
+  <a href="https://github.com/mtmiran/config_files">Install scripts</a>: my install scripts and tutorials for debian(current), arch(to fell special) and windows(when I have to...).
+</p>
+<p>
+  <a href="https://github.com/mtmiran/config_files">I know you like some dot files</a>: configuration files for i3wm, neovim, tmux, bashrc and xterm.
+</p>
+
 <!--
 **mtmiran/mtmiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
